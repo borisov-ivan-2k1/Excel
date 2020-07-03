@@ -11,6 +11,9 @@
     "linebreak-style": "off",
     "arrow-parens": "off",
     "comma-dangle": "off",
-    "require-jsdoc": "off"
-  },
+    "require-jsdoc": "off",
+    "quotes": "off",
+    "no-unused-vars": "warn",
+    "no-trailing-spaces": "off"
+  }
 }
